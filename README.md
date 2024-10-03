@@ -1,2 +1,2 @@
 # demo-repository
-its description section which is option
+its description section which is option.
